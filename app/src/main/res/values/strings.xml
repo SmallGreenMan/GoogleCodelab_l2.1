@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GoogleCodelab_2.1_TwoActivities</string>
+    <string name="send">Send</string>
 </resources>
