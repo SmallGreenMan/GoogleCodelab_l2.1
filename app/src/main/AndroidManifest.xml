@@ -9,6 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.GoogleCodelab_21_TwoActivities">
+        <activity android:name=".SecondActivity"
+            android:label = "Second Activity"
+            android:exported = "false"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=
+                    "android.examample.googlecodelab_21_twoactivities.MainActivity" />
+        </activity>
         <activity
             android:name=".MainActivity"
             android:exported="true">
