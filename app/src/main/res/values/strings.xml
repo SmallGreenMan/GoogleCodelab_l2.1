@@ -2,4 +2,5 @@
     <string name="app_name">GoogleCodelab_2.1_TwoActivities</string>
     <string name="send">Send</string>
     <string name="text_header">Message Received</string>
+    <string name="enter_your_message_here">Enter Your Message Here</string>
 </resources>
